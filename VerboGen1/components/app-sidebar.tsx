@@ -20,7 +20,7 @@ export function AppSidebar({ ...props }: React.ComponentProps<typeof Sidebar>) {
         <SidebarMenu>
           <SidebarMenuItem>
             <SidebarMenuButton size="lg" asChild>
-                <Link href="#" target="_blank">
+                <Link href="https://github.com/tabishanenenu/VerboGen1" target="_blank">
                   <div className="flex aspect-square size-8 items-center justify-center rounded-lg bg-sidebar-primary text-sidebar-primary-foreground">
                     <MessagesSquare className="size-4" />
                   </div>
